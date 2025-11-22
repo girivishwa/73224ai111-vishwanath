@@ -1,11 +1,14 @@
 # Manual Trigger
-- Log in to n8n
-- Create the workflow
-- Search for trigger
-- Execute the step
-- search for email and selevt email meassage
-- Excute the step
-- Finally excute the entire workflow
+- Click “Create Workflow”.
+- Click “Add First Step”.
+- Search for “Manual Trigger”.
+- Add it to the canvas.
+- Click the “+” button to add another node.
+- Search for “Gmail”.
+- Choose “Send a Message”.
+- Enter your Gmail account (connect your credentials).
+- Enter the receiver’s Gmail address.
+- Write the subject and message you want to send.
 # Schedule Trigger
 - Sign in to n8n
 - Click “Create Workflow.”
